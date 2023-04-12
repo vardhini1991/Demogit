@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T16:35:56 IST" name="Default suite" finished-at="2023-04-12T16:35:56 IST" duration-ms="44">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T16:35:56 IST" name="Default test" finished-at="2023-04-12T16:35:56 IST" duration-ms="44">
+      <class name="Hima.firstcommit">
+        <test-method signature="fcommit()[pri:0, instance:Hima.firstcommit@7e9131d5]" started-at="2023-04-12T16:35:56 IST" name="fcommit" finished-at="2023-04-12T16:35:56 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fcommit -->
+      </class> <!-- Hima.firstcommit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
