@@ -8,6 +8,13 @@ public class firstcommit
 	public void fcommit()
 	{
 		System.out.println("This is first commit");
+		
+		
+		System.out.println("sana stmts");
+
 	}
+	
+	
+
 
 }
